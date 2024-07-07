@@ -1,4 +1,4 @@
-void	ft_strlen(char *str)
+int	ft_strlen(char *str)
 {
 	int	i;
 
